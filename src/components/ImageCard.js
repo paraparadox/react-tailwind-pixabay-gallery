@@ -1,5 +1,3 @@
-import React from 'react'
-
 const ImageCard = ({ image }) => {
   const tags = image.tags.split(',');
 
